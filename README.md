@@ -5,17 +5,15 @@ Sobre mim 👋<br><br>Bem-vindo ao meu perfil! Sou apaixonado por tecnologia e t
 
 ## 🌐 Socials:  
 
-<span>
-  <a href="https://facebook.com/profile.php?id=100008769639445" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white" alt="Facebook">
-  </a>
-  <a href="https://instagram.com/nic.cs_" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="Instagram">
-  </a>
-  <a href="https://linkedin.com/in/nicolas-coelho" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-</span>
+<a href="https://facebook.com/profile.php?id=100008769639445">
+  <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white" alt="Facebook">
+</a>
+<a href="https://instagram.com/nic.cs_">
+  <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="Instagram">
+</a>
+<a href="https://linkedin.com/in/nicolas-coelho">
+  <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>
 
 ## 💻 Tech Stack:
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
