@@ -1,5 +1,7 @@
 <div align="center">
 
+![Hero](https://github.com/NiCoelho-tech/NiCoelho-tech/edit/main/capa.png)
+
 # 💫 About Me:
 Sobre mim 👋<br><br>Bem-vindo ao meu perfil! Sou apaixonado por tecnologia e tudo o que ela envolve. Desde projetos desafiadores até ideias criativas, gosto de explorar novas ferramentas, aprender linguagens de programação e me aprofundar no universo tecnológico.<br><br>Aqui você encontrará meus projetos, que refletem minha curiosidade e dedicação para criar soluções inovadoras. Sinta-se à vontade para explorar e contribuir. Vamos construir algo incrível juntos! 🚀
 
