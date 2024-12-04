@@ -30,7 +30,6 @@ Sobre mim 👋<br><br>Bem-vindo ao meu perfil! Sou apaixonado por tecnologia e t
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=NiCoelho-tech&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 [![](https://visitcount.itsvg.in/api?id=NiCoelho-tech&icon=2&color=11)](https://visitcount.itsvg.in)
