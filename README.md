@@ -5,13 +5,13 @@ Sobre mim 👋<br><br>Bem-vindo ao meu perfil! Sou apaixonado por tecnologia e t
 
 ## 🌐 Socials:  
 
-<a href="https://facebook.com/profile.php?id=100008769639445">
+<a href="https://facebook.com/profile.php?id=100008769639445" rel="nofollow">
   <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white" alt="Facebook">
 </a>
-<a href="https://instagram.com/nic.cs_">
+<a href="https://instagram.com/nic.cs_" rel="nofollow">
   <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="Instagram">
 </a>
-<a href="https://linkedin.com/in/nicolas-coelho">
+<a href="https://linkedin.com/in/nicolas-coelho" rel="nofollow">
   <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>
 
